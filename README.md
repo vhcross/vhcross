@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vhcross
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning python, SQL and javascript
+- 🌱 I’m currently learning python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
